@@ -36,7 +36,8 @@ opacity:0,
 .from('#jag_dp',{
 opacity:0,
     y:20,
-    delay:0.5
+    delay:0.5,
+    duration:1
 })
 
 
