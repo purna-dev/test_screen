@@ -144,7 +144,7 @@ ttl2
         });
     }
 }).to('#loader',{
-   y:"-100%",
-   duration:1,
+    opacity:0,
+   duration:1.5,
    delay:1
 })
